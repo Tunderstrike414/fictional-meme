@@ -100,7 +100,7 @@
   Explore my lab experiments, course assignments, and personal profile to see how I'm turning ideas into interactive web experiences.  
   Whether you're a fellow student, instructor, or tech enthusiast — I'm excited to have you here!  
   <br><br>
-  📬 <strong>Contact me:</strong> <a href="mailto:aragawnejat94@gmail.com">aragawnejat94@gamil.com</a>
+  📬 <strong>Contact me:</strong><i> <a href="mailto:aragawnejat94@gmail.com">aragawnejat94@gamil.com</a></i>
 </p>
 
 
